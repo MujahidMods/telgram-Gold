@@ -1,1 +1,21 @@
-5dgh
+Version 3.1.0. Changelog:
+
+> Source code updated to v10.2.2.0.
+> Replies 2.0, Adjustable Link Previews, Name Colors and More
+> Added option to disable users theme modifications
+> Choose a custom color to display the name and links.
+> Possibility of quoting part of the messages in the answers.
+> Ability to format texts as quotations.
+> New settings for displaying links in messages.
+> Context menu for replies and forwarding of messages.
+> Various other features, including new features in Stories and displaying code in Messages.
+> This update increases the diversity and capabilities of messaging and allows users to send their messages in more attractive ways.
+> In this update you can select a piece of text and reply. For example, someone sent you a long text message containing several questions. Select the question you want to answer and select the quote option.
+> You can also change part of the text of your message to quote mode so that it looks more different from the rest of the text
+> Now you can send your reply to another chat, for example selecting part of this post's message and then sending the reply to someone else's chat.
+> Featured users can now choose the desired color for their name, replies, and links to differentiate themselves from other users, and can also serve as an emoji for the background of replies.
+> The preview of links has also been improved and you can adjust the size of images, move the location of the link, etc.
+> In Stories, you can keep your hand on the screen and swipe left or right to advance stories faster.
+> Fixed the problem of logging out on some devices
+> Improve the performance
+> Bug fixes and other minor improvements
