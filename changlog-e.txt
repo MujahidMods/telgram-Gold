@@ -1,14 +1,9 @@
-Version 3.4.0. Changelog:
+Version 3.5.0. Changelog:
 
-What's new in TeleGold version 3.4.0?
+➖ What's new in TeleGold version 3.5.0?
 
-📢 Update source code to v10.9.1.1.
-#⃣ (Exclusive) Added Anti-delete messages
-#⃣ (Exclusive) Save media and Copy messages from Closed channels and groups.
-❤️ Boosts for Groups.
-❤️ Stories from Groups.
-❤️ Emoji Status, Covers, Wallpapers, and Link Styles.
-❤️ Group Emoji Packs.
-❤️ Voice-to-Text for Boosted Groups.
-❤️ Permissions for Boosters.
+📢 Update source code to v10.13.1.2.
+#⃣ (Exclusive) Screen capture enabled for stories if it is stopped
+#⃣ (Exclusive) Story saving enabled if it is stopped
+#⃣ (Exclusive) Copy story link enabled if it is stopped
 ✔️ Bug fixes and other minor improvements.
