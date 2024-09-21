@@ -1,0 +1,36 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v3.50",
+    "org.telegram.gold": "https://Apks-gold/Telegram-gold",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 3.50</p>
+<li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 10.13.1.2</li>
+<li>ط§ظ…ظƒط§ظ†ظٹط© طھطµظˆظٹط± ط§ظ„ط´ط§ط´ط© ظپظٹ ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
+<li>ط§ظ…ظƒط§ظ†ظٹط© ط­ظپط¸ ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
+<li>ط§ظ…ظƒط§ظ†ظٹط© ظ†ط³ط® ط±ط§ط¨ط· ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
+<li>طھط£ط«ظٹط±ط§طھ ط§ظ„ط±ط³ط§ط¦ظ„</li>
+<li>ط§ظ„طھط³ظ…ظٹط§طھ ط£ط¹ظ„ظ‰ ط§ظ„ظˆط³ط§ط¦ط·</li>
+<li>ط¥ط¬ط±ط§ط،ط§طھ ط³ط±ظٹط¹ط© ظ„ط£ط±ظ‚ط§ظ… ط§ظ„ظ‡ظˆط§طھظپ</li>
+<li>ط¨ط­ط« ط§ظ„ظ‡ط§ط´طھط§ط¬</li>
+<li>ط§ظ‚طھط¨ط§ط³ط§طھ ظ‚ط§ط¨ظ„ط© ظ„ظ„ط·ظٹ</li>
+<li>ط§ط¶ط§ظپط© ظ…ظ„ظپظٹ ط§ظ„ط´ط®طµظٹ</li>
+<li>ط§ط¶ط§ظپط© ط£ط¹ظٹط§ط¯ ط§ظ„ظ…ظٹظ„ط§ط¯</li>
+<li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
+
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
