@@ -1,9 +1,21 @@
-Version 3.5.0. Changelog:
+Version 3.6.0. Changelog:
 
 ➖ What's new in TeleGold version 3.5.0?
-
-📢 Update source code to v10.13.1.2.
-#⃣ (Exclusive) Screen capture enabled for stories if it is stopped
-#⃣ (Exclusive) Story saving enabled if it is stopped
-#⃣ (Exclusive) Copy story link enabled if it is stopped
-✔️ Bug fixes and other minor improvements.
+1. Instant message translation.
+2. Quote messages in groups.
+3. Set restriction duration when deleting messages.
+4. Mini app store.
+5. Share mini apps in stories.
+6. Gift stars to friends.
+7. Flash effect when recording video messages.
+8. Weather widget in stories.
+9. Story covers.
+10. Star reactions for channels.
+11. Paid channel subscriptions.
+12. Pay for content using Telegram stars.
+13. Search stories by hashtag and location.
+14. Link widget in stories.
+15. Rewards for content creators.
+16. Toncoin rewards.
+17. Sponsored ads for creators.
+18. Bug fixes.
