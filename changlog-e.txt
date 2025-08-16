@@ -1,21 +1,2 @@
-Version 3.6.0. Changelog:
-
-➖ What's new in TeleGold version 3.5.0?
-1. Instant message translation.
-2. Quote messages in groups.
-3. Set restriction duration when deleting messages.
-4. Mini app store.
-5. Share mini apps in stories.
-6. Gift stars to friends.
-7. Flash effect when recording video messages.
-8. Weather widget in stories.
-9. Story covers.
-10. Star reactions for channels.
-11. Paid channel subscriptions.
-12. Pay for content using Telegram stars.
-13. Search stories by hashtag and location.
-14. Link widget in stories.
-15. Rewards for content creators.
-16. Toncoin rewards.
-17. Sponsored ads for creators.
-18. Bug fixes.
+3.7.0 Boost the Golden Telegram Plus 3.7.0 ✅
+You need to boost the official channel of Telegram Plus to unlock more features and get the full free experience.
