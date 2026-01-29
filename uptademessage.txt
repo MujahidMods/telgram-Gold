@@ -2,34 +2,24 @@
   "Gold": {
     "update_code": "10",
     "reminder_time": "3",
-    "update_version": "v5.1.0",
-    "org.telegram.gold": "https://t.me/apks_gold",
+    "update_version": "v5.3.0",
+    "org.telegram.gold": "https://telegold.app/dlltele",
     "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 5.1.0</p>
-<li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 10.13.1.2</li>
-<li>ط§ظ…ظƒط§ظ†ظٹط© طھطµظˆظٹط± ط§ظ„ط´ط§ط´ط© ظپظٹ ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
-<li>ط§ظ…ظƒط§ظ†ظٹط© ط­ظپط¸ ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
-<li>ط§ظ…ظƒط§ظ†ظٹط© ظ†ط³ط® ط±ط§ط¨ط· ط§ظ„ط³طھظˆط±ظٹ ظپظٹ ط­ط§ظ„ط© ط§ظ„ظ…ظ†ط¹</li>
-<li>طھط£ط«ظٹط±ط§طھ ط§ظ„ط±ط³ط§ط¦ظ„</li>
-<li>ط§ظ„طھط³ظ…ظٹط§طھ ط£ط¹ظ„ظ‰ ط§ظ„ظˆط³ط§ط¦ط·</li>
-<li>ط¥ط¬ط±ط§ط،ط§طھ ط³ط±ظٹط¹ط© ظ„ط£ط±ظ‚ط§ظ… ط§ظ„ظ‡ظˆط§طھظپ</li>
-<li>ط¨ط­ط« ط§ظ„ظ‡ط§ط´طھط§ط¬</li>
-<li>ط§ظ‚طھط¨ط§ط³ط§طھ ظ‚ط§ط¨ظ„ط© ظ„ظ„ط·ظٹ</li>
-<li>ط§ط¶ط§ظپط© ظ…ظ„ظپظٹ ط§ظ„ط´ط®طµظٹ</li>
-<li>ط§ط¶ط§ظپط© ط£ط¹ظٹط§ط¯ ط§ظ„ظ…ظٹظ„ط§ط¯</li>
+<p>Update Vطھط­ط¯ظٹط« 5.3.0</p>
+<li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 11.8.2.1</li>
+<li>ط­ط§ظپط¸ ط¹ظ„ظ‰ طھظ†ط¸ظٹظ… طµظ†ط¯ظˆظ‚ ط§ظ„ظˆط§ط±ط¯ ط§ظ„ط®ط§طµ ط¨ظƒ ط¨ط§ط³طھط®ط¯ط§ظ… ظ…ظٹط²ط© طھظ…ظٹظٹط² ط§ظ„ط±ط³ط§ط¦ظ„ ط¨ظ†ط¬ظ…ط©</li>
+<li>طھط¹ط±ظ‘ظپ ط¹ظ„ظ‰ ظ‡ظˆظٹط© ظ…ظ† ظٹط±ط³ظ„ ظ„ظƒ ط§ظ„ط±ط³ط§ط¦ظ„ ظ…ظ† ط®ظ„ط§ظ„ طھط£ظƒظٹط¯ ط¬ظ‡ط§طھ ط§ظ„ط§طھطµط§ظ„</li>
+<li>ظ‚ط¯ظ‘ظ… ظ‡ط¯ط§ظٹط§ ط§ظ„ط§ط´طھط±ط§ظƒ ط§ظ„ظ…ظ…ظٹط² ط¨ط§ط³طھط®ط¯ط§ظ… ط§ظ„ظ†ط¬ظˆظ…</li>
+<li>ط§ط³ط­ط¨ ط±طµظٹط¯ ط§ظ„ظ†ط¬ظˆظ… ظ…ظ† ط®ظ„ط§ظ„ ظ…ظ†طµط© Fragment</li>
+<li>ط«ط¨طھ ط§ظ„ظ‡ط¯ط§ظٹط§ ط¹ظ„ظ‰ ظ…ظ„ظپظƒ ط§ظ„ط´ط®طµظٹ ظ„ظٹط±ط§ظ‡ط§ ط§ظ„ط¬ظ…ظٹط¹ط©</li>
 <li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
 
-<li>Base Update: 10.13.1.2</li>
-<li>Screen capture enabled for stories if it is stopped</li>
-<li>Story saving enabled if it is stopped</li>
-<li>Copy story link enabled if it is stopped</li>
-<li>Message Effects</li>
-<li>Captions Above Media</li>
-<li>Quick Actions for Phone Numbers</li>
-<li>Hashtag Search</li>
-<li>Collapsible Quotes</li>
-<li>Added My Profile</li>
-<li>Added Birthdays</li>
+<li>Base Update: 11.8.2.1</li>
+<li>Stay in Control of Your Inbox with Star Messages</li>
+<li>Know Whoâ€™s Messaging You with Contact Confirmation</li>
+<li>Gift Premium with Stars</li>
+<li>Withdraw Stars via Fragment</li>
+<li>Pin Gifts on Your Profile</li>
 <li>Other fixes</li>
 "
     }
