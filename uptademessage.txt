@@ -1,9 +1,9 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "10",
     "reminder_time": "3",
-    "update_version": "v3.50",
-    "org.telegram.gold": "https://Apks-gold/Telegram-gold",
+    "update_version": "v4.10.0",
+    "org.telegram.gold": "https://t.me/apks_gold",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 3.50</p>
 <li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 10.13.1.2</li>
