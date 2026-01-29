@@ -3,7 +3,7 @@
     "update_code": "10",
     "reminder_time": "3",
     "update_version": "v5.3.0",
-    "org.telegram.gold": "https://telegold.app/dlltele",
+    "org.telegram.gole": "https://t.me/apks_gold",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 5.3.0</p>
 <li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 11.8.2.1</li>
