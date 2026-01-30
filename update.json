@@ -1,8 +1,8 @@
 {
 
-  "latestVersionCode": 9,
+  "latestVersionCode": 8,
 
-  "latestVersionName": "5.9.0",
+  "latestVersionName": "4.9.0",
 
   "whatsNew": {
 
@@ -18,6 +18,6 @@
 
    "forceUpdate": false,
 
-  "showIntervalHours": 0
+  "showIntervalHours": 1
 
 }
