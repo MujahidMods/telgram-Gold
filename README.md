@@ -1,0 +1,23 @@
+{
+
+  "latestVersionCode": 8,
+
+  "latestVersionName": "5.9.0",
+
+  "whatsNew": {
+
+   "ar": "- تحديث قاعدة تيليجرام إلى الإصدار v12.3.1.1\n- إضافة خيارات إخفاء التلخيص داخل المحادثات والعرض السريع\n- إضافة خيار إخفاء أزرار الإجراءات في الملف الشخصي\n- تفعيل ميزة مفاتيح المرور (Passkeys)\n- إضافة الملخصات الذكية (AI Summaries) للقنوات والعرض السريع",
+
+
+
+"en": "- Updated Telegram base to v12.3.1.1\n- Added options to hide summaries in chats and Instant View\n- Added option to hide action buttons in profile\n- Enabled Passkeys (Android 14+)\n- Added AI Summaries for channels and Instant View"
+
+},
+
+  "downloadUrl": "[https://telegold.app/dlltele](https://t.me/apks_gold)",
+
+   "forceUpdate": false,
+
+  "showIntervalHours": 3
+
+}
