@@ -1,23 +1,12 @@
 {
-
-  "latestVersionCode": 8,
-
-  "latestVersionName": "4.9.0",
-
+  "latestVersionCode": 10,
+  "latestVersionName": "5.0.0",
   "whatsNew": {
+   "ar": "- تحديث قاعدة تيليجرام إلى الإصدار v12.5.1.1.\n- إضافة وسوم الأعضاء داخل المجموعات.\n- تعطيل المشاركة في الدردشات الخاصة (منع إعادة التوجيه واللقطات والحفظ).\n- إضافة تعديل GIF والملصقات وتحويل الصور إلى ملصقات.\n- عرض وقت التصويت في الاستطلاعات وتسجيل الدخول عبر تيليجرام.\n- إعادة تصميم كاملة لواجهة تيليجرام للأندرويد.\n- نقل ملكية المجموعة تلقائيًا عند مغادرة المالك.\n- إضافة نظام دمج الهدايا وأزرار ملوّنة للبوتات.\n- إصلاحات وتحسينات عامة في الأداء",
 
-   "ar": "- تحديث قاعدة تيليجرام إلى الإصدار v12.3.1.1\n- إضافة خيارات إخفاء التلخيص داخل المحادثات والعرض السريع\n- إضافة خيار إخفاء أزرار الإجراءات في الملف الشخصي\n- تفعيل ميزة مفاتيح المرور (Passkeys)\n- إضافة الملخصات الذكية (AI Summaries) للقنوات والعرض السريع",
-
-
-
-"en": "- Updated Telegram base to v12.3.1.1\n- Added options to hide summaries in chats and Instant View\n- Added option to hide action buttons in profile\n- Enabled Passkeys (Android 14+)\n- Added AI Summaries for channels and Instant View"
-
+"en": "- Telegram base updated to v12.5.1.1.\n- Added member tags in group chats.\n- Disabled sharing in private chats (no forwarding, screenshots, or saving media).\n- Added GIF editing and photo-to-sticker conversion.\n- Polls now show vote timestamps and Telegram login added.\n- Fully redesigned Telegram for Android UI.\n- Automatic group ownership transfer when the owner leaves.\n- Introduced gift crafting and colored bot buttons.\n- Bug fixes and performance improvements"
 },
-
-  "downloadUrl": "https://t.me/apks_gold",
-
+  "downloadUrl": "https://www.mjwhats.com/2024/02/TeleGold.html",
    "forceUpdate": false,
-
-  "showIntervalHours": 1
-
+  "showIntervalHours": 3
 }
