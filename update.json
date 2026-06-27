@@ -6,7 +6,7 @@
 
 "en": "- Telegram base updated to v12.5.1.1.\n- Added member tags in group chats.\n- Disabled sharing in private chats (no forwarding, screenshots, or saving media).\n- Added GIF editing and photo-to-sticker conversion.\n- Polls now show vote timestamps and Telegram login added.\n- Fully redesigned Telegram for Android UI.\n- Automatic group ownership transfer when the owner leaves.\n- Introduced gift crafting and colored bot buttons.\n- Bug fixes and performance improvements"
 },
-  "downloadUrl": "https://www.mjwhats.com/2024/02/TeleGold.html",
+  "downloadUrl": "https://t.me/apks_gold",
    "forceUpdate": false,
   "showIntervalHours": 3
 }
