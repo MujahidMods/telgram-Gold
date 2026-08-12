@@ -13,13 +13,13 @@
     "messageEn": "A new Telegram Gold version is available.",
     "changelogAr": "- أضف التغييرات هنا\n- إصلاحات وتحسينات",
     "changelogEn": "- Add release changes here\n- Fixes and improvements",
-    "downloadUrl": "https://www.mediafire.com/file/azxth27tgh6f3ts/Telegram+Gold_4.9.0.apk/file",
+    "downloadUrl": "https://www.mediafire.com/file/azxth27tgh6f3ts/Telegram+Gold_4.9.0.apk/file?dkey=dfm9njg1y2e&r=691",
     "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html?m=1",
     "sha256": "",
     "fileSize": 0,
     "forceUpdate": false,
-    "minSupportedVersionCode": 0,
-    "publishedAt": "2026-08-11"
+    "minSupportedVersionCode": 6,
+    "publishedAt": "2026-08-13"
   },
   "beta": {
     "enabled": true,
@@ -31,12 +31,12 @@
     "messageEn": "A new Telegram Gold beta version is available.",
     "changelogAr": "- تغييرات النسخة التجريبية",
     "changelogEn": "- Beta changes",
-    "downloadUrl": "https://www.mediafire.com/file/azxth27tgh6f3ts/Telegram+Gold_4.9.0.apk/file",
+    "downloadUrl": "https://www.mediafire.com/file/azxth27tgh6f3ts/Telegram+Gold_4.9.0.apk/file?dkey=dfm9njg1y2e&r=691",
     "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html?m=1",
     "sha256": "",
     "fileSize": 0,
     "forceUpdate": false,
-    "minSupportedVersionCode": 0,
-    "publishedAt": "2026-08-11"
+    "minSupportedVersionCode": 2,
+    "publishedAt": "2026-08-13"
   }
 }
