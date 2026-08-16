@@ -16,11 +16,14 @@
 # Migrated from Telegram_Gold_v5.1.0.apk / GoldXConfig.officialChats
 chat:1460666529
 chat:1197188189
+chat:2162623358
+chat:1725561792
+chat:1605901713
 chat:1471483063
 chat:6855839059
 chat:2023674913
 chat:2016923220
 @abukaraam
 @AssemMahgoob
-@MujahidMods
+@Moham2med123
 @AssemMahgoob2021
