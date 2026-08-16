@@ -5,7 +5,7 @@
   "showAgainAfterHours": 12,
   "stable": {
     "enabled": true,
-    "versionCode": 79919,
+    "versionCode": 2947483647,
     "versionName": "19.9.3",
     "titleAr": "تحديث جديد لتلجرام الذهبي",
     "titleEn": "New Telegram Gold update",
@@ -23,7 +23,7 @@
   },
   "beta": {
     "enabled": true,
-    "versionCode": 79929,
+    "versionCode": 2947483647,
     "versionName": "19.9.3-beta",
     "titleAr": "إصدار تجريبي جديد",
     "titleEn": "New beta version",
