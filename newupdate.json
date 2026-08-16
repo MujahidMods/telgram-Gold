@@ -6,7 +6,7 @@
   "stable": {
     "enabled": true,
     "versionCode": 79919,
-    "versionName": "13.9.3",
+    "versionName": "19.9.3",
     "titleAr": "تحديث جديد لتلجرام الذهبي",
     "titleEn": "New Telegram Gold update",
     "messageAr": "يتوفر إصدار جديد من تلجرام الذهبي.",
@@ -24,7 +24,7 @@
   "beta": {
     "enabled": true,
     "versionCode": 79929,
-    "versionName": "13.9.3-beta",
+    "versionName": "19.9.3-beta",
     "titleAr": "إصدار تجريبي جديد",
     "titleEn": "New beta version",
     "messageAr": "يتوفر إصدار تجريبي جديد من تلجرام الذهبي.",
