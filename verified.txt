@@ -11,7 +11,7 @@
 # Usernames are case-insensitive. Blank lines and comments are ignored.
 
 # Telegram Gold official channel
-@AssemBlogger
+@apks_gold
 
 # Migrated from Telegram_Gold_v5.1.0.apk / GoldXConfig.officialChats
 chat:1989224059
@@ -23,7 +23,7 @@ chat:2016923220
 @abukaraam
 @AssemMahgoob
 @M_j_s_o
-@apks_gold
+@AssemBlogger
 @irtfo
 @oO_AAaa_Oo
 @Elnashmi0
