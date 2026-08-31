@@ -1,1 +1,8 @@
-4.9.0 Version 4.9.0 fixes previous download issues. All previous errors have been resolved. Please try downloading again now. We apologize for the previous errors. This is a new and important update with the best features for the first time. If you are currently using Telegram Plus, switch to the latest version of Telegram Gold. 
+<p>12.9.2</p><p>🟨 Telegram Plus features have been fully added and integrated into Telegram Gold.</p><li>⭐️ Request account or channel verification</li>
+<li>🔓 Unlock Premium restrictions</li>
+<li>👻 Ghost Mode & hide read receipts</li>
+<li>🎚️ Hide online status & typing status</li>
+<li>💯 Prevent message deletion & show edited messages</li>
+<li>🅰️ Translate conversations</li>
+<li>⚡️ Disable sponsored messages</li>
+<li>🛠️ Bug fixes & performance improvements</li><p>🔥 If you're using Telegram Plus, switch to Telegram Gold now and enjoy the integrated features.</p>
