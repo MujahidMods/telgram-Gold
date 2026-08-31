@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "10",
+    "update_code": "13",
     "reminder_time": "3",
     "update_version": "v12.9.2",
     "org.telegram.gole": "https://www.mjwhats.com/2024/02/TeleGold.html",
