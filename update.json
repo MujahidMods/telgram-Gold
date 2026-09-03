@@ -1,12 +1,11 @@
 {
   "latestVersionCode": 10,
-  "latestVersionName": "5.1.0",
+  "latestVersionName": "12.9.2",
   "whatsNew": {
-   "ar": "- تحديث قاعدة تيليجرام إلى الإصدار v12.5.1.1.\n- إضافة وسوم الأعضاء داخل المجموعات.\n- تعطيل المشاركة في الدردشات الخاصة (منع إعادة التوجيه واللقطات والحفظ).\n- إضافة تعديل GIF والملصقات وتحويل الصور إلى ملصقات.\n- عرض وقت التصويت في الاستطلاعات وتسجيل الدخول عبر تيليجرام.\n- إعادة تصميم كاملة لواجهة تيليجرام للأندرويد.\n- نقل ملكية المجموعة تلقائيًا عند مغادرة المالك.\n- إضافة نظام دمج الهدايا وأزرار ملوّنة للبوتات.\n- إصلاحات وتحسينات عامة في الأداء",
-
-"en": "- Telegram base updated to v12.5.1.1.\n- Added member tags in group chats.\n- Disabled sharing in private chats (no forwarding, screenshots, or saving media).\n- Added GIF editing and photo-to-sticker conversion.\n- Polls now show vote timestamps and Telegram login added.\n- Fully redesigned Telegram for Android UI.\n- Automatic group ownership transfer when the owner leaves.\n- Introduced gift crafting and colored bot buttons.\n- Bug fixes and performance improvements"
-},
-  "downloadUrl": "https://t.me/apks_gold",
-   "forceUpdate": false,
+    "ar": "تحديث تلجرام الذهبي V12.9.2 🟨\n\n- توثيق حسابك أو قناتك بتقديم طلب\n- فتح قيود المميز\n- وضع الشبح لإخفاء صحين الاستلام 👻\n- إخفاء الظهور\n- إخفاء جاري الكتابة\n- منع حذف الرسائل 💯\n- إظهار الرسائل المعدلة 🌟\n- ترجمة المحادثات إلى لغتك 🅰\n- قوائم مرتبة\n- إيقاف الإعلانات المزعجة من خيار إضافة الذهبي ثم ميزات خاصة، وستجد زر إيقاف الرسائل الممولة ⚡️\n- تحسينات وإصلاحات أخرى",
+    "en": "- Telegram Gold V12.9.2 update 🟨\n- Request verification for your account or channel\n- Unlock Premium features\n- Ghost mode to hide read receipts 👻\n- Hide online status\n- Hide typing status\n- Prevent message deletion 💯\n- Show edited messages 🌟\n- Translate chats to your language 🅰\n- Organized menus\n- Stop annoying ads via Telegram Gold options > Special Features > Stop Sponsored Messages ⚡️\n- Other bug fixes and improvements"
+  },
+  "downloadUrl": "https://www.mjwhats.com/2024/02/TeleGold.html",
+  "forceUpdate": false,
   "showIntervalHours": 3
 }
