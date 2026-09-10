@@ -1,11 +1,71 @@
 {
-  "latestVersionCode": 2000,
-  "latestVersionName": "12.9.2",
-  "whatsNew": {
-    "ar": "تحديث تلجرام الذهبي V12.9.2 🟨\n\n- توثيق حسابك أو قناتك بتقديم طلب\n- فتح قيود المميز\n- وضع الشبح لإخفاء صحين الاستلام 👻\n- إخفاء الظهور\n- إخفاء جاري الكتابة\n- منع حذف الرسائل 💯\n- إظهار الرسائل المعدلة 🌟\n- ترجمة المحادثات إلى لغتك 🅰\n- قوائم مرتبة\n- إيقاف الإعلانات المزعجة من خيار إضافة الذهبي ثم ميزات خاصة، وستجد زر إيقاف الرسائل الممولة ⚡️\n- تحسينات وإصلاحات أخرى",
-    "en": "- Telegram Gold V12.9.2 update 🟨\n- Request verification for your account or channel\n- Unlock Premium features\n- Ghost mode to hide read receipts 👻\n- Hide online status\n- Hide typing status\n- Prevent message deletion 💯\n- Show edited messages 🌟\n- Translate chats to your language 🅰\n- Organized menus\n- Stop annoying ads via Telegram Gold options > Special Features > Stop Sponsored Messages ⚡️\n- Other bug fixes and improvements"
+  "enabled": true,
+  "showOnLaunch": true,
+  "checkIntervalHours": 6,
+  "showAgainAfterHours": 12,
+
+  "stable": {
+    "enabled": true,
+    "versionCode": 2147483647,
+    "goldUpdateCode": 2,
+    "versionName": "12.10.1",
+    "titleAr": "تحديث جديد لتلجرام الذهبي",
+    "titleEn": "New Telegram Gold update",
+    "messageAr": "يتوفر إصدار جديد من تلجرام الذهبي.",
+    "messageEn": "A new Telegram Gold version is available.",
+    "changelogAr": "- تحسينات كبيرة على الخصوصية ووضع الشبح.\n- حماية الرسائل من الحذف والتعديل مع إشعارات للرسائل المحذوفة.\n- فك تقييد القنوات والمجموعات وتحسين التحكم بالوسائط المقيدة.\n- إضافة قفل التطبيق بالرمز والبصمة.\n- تطوير التصنيفات والخطوط وإعدادات Telegram Gold.\n- إضافة نظام التوثيق بالعلامة الزرقاء.\n- تحسين مجلدات المحادثات والأرشيف وإعادة التوجيه.\n- اعتماد ترجمة Telegram Gold وتحسين ترجمة المحادثات.\n- تحسين القائمة الجانبية وإضافة خيار لإخفائها.\n- إصلاح الإشعارات والنسخ الاحتياطي وتعليق الفيديوهات.\n- إصلاحات وتحسينات متعددة في الأداء والاستقرار.",
+	"changelogEn": "- Major Privacy & Ghost Mode improvements.\n- Protection against deleted and edited messages with deleted-message alerts.\n- Bypass channel and group restrictions with better restricted-media controls.\n- Added App Lock with PIN and fingerprint support.\n- Improved Categories, fonts, and Telegram Gold Settings.\n- Added Blue Badge Verification system.\n- Improved chat folders, archive, and message forwarding.\n- Telegram Gold Translation is now the default with improved full-chat translation.\n- Improved the side menu with an option to hide it.\n- Fixed notifications, Backup & Restore, and video freezing issues.\n- Multiple performance, stability, and bug fixes.",
+    "downloadUrl": "https://dlll.apkm.app/telegold/12.10.1/Telegram_Gold_v12.10.1.apk",
+    "webUrl": "https://telegold.app/dlltele",
+    "sha256": "",
+    "fileSize": 0,
+    "forceUpdate": false,
+    "minSupportedVersionCode": 0,
+    "publishedAt": "2026-09-10"
   },
-  "downloadUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html",
-  "forceUpdate": false,
-  "showIntervalHours": 3
+
+  "beta": {
+    "enabled": true,
+    "versionCode": 2147483647,
+    "goldUpdateCode": 2,
+    "versionName": "12.10.1-beta",
+    "titleAr": "إصدار تجريبي جديد",
+    "titleEn": "New beta version",
+    "messageAr": "يتوفر إصدار تجريبي جديد من تلجرام الذهبي.",
+    "messageEn": "A new Telegram Gold beta version is available.",
+    "changelogAr": "- تحسينات كبيرة على الخصوصية ووضع الشبح.\n- حماية الرسائل من الحذف والتعديل مع إشعارات للرسائل المحذوفة.\n- فك تقييد القنوات والمجموعات وتحسين التحكم بالوسائط المقيدة.\n- إضافة قفل التطبيق بالرمز والبصمة.\n- تطوير التصنيفات والخطوط وإعدادات Telegram Gold.\n- إضافة نظام التوثيق بالعلامة الزرقاء.\n- تحسين مجلدات المحادثات والأرشيف وإعادة التوجيه.\n- اعتماد ترجمة Telegram Gold وتحسين ترجمة المحادثات.\n- تحسين القائمة الجانبية وإضافة خيار لإخفائها.\n- إصلاح الإشعارات والنسخ الاحتياطي وتعليق الفيديوهات.\n- إصلاحات وتحسينات متعددة في الأداء والاستقرار.",
+	"changelogEn": "- Major Privacy & Ghost Mode improvements.\n- Protection against deleted and edited messages with deleted-message alerts.\n- Bypass channel and group restrictions with better restricted-media controls.\n- Added App Lock with PIN and fingerprint support.\n- Improved Categories, fonts, and Telegram Gold Settings.\n- Added Blue Badge Verification system.\n- Improved chat folders, archive, and message forwarding.\n- Telegram Gold Translation is now the default with improved full-chat translation.\n- Improved the side menu with an option to hide it.\n- Fixed notifications, Backup & Restore, and video freezing issues.\n- Multiple performance, stability, and bug fixes.",
+    "downloadUrl": "https://dlll.apkm.app/telegold/12.10.1/Telegram_Gold_v12.10.1.apk",
+    "webUrl": "https://telegold.app/dlltele",
+    "sha256": "",
+    "fileSize": 0,
+    "forceUpdate": false,
+    "minSupportedVersionCode": 0,
+    "publishedAt": "2026-09-10"
+  },
+
+  "migration": {
+    "enabled": false,
+    "required": false,
+    "showOnLaunch": false,
+    "checkIntervalHours": 0,
+    "showAgainAfterHours": 0,
+
+    "appName": "TeleGold",
+    "packageName": "app.telegold.messenger",
+
+    "signingSha256": [
+      "1111111111111111111111111111111111111111111111111111111111111111"
+    ],
+
+    "playUrl": "",
+    "downloadUrl": "",
+    "webUrl": "",
+
+    "titleAr": "الانتقال إلى TeleGold",
+    "titleEn": "Move to TeleGold",
+
+    "messageAr": "نعمل حاليًا على الإصدار الجديد TeleGold بهوية جديدة وتحسينات أمنية وتجهيز كامل للتحديثات القادمة. هذه رسالة تجريبية لاختبار نظام الانتقال فقط، ولا تحتاج إلى حذف أو تغيير النسخة الحالية الآن.",
+    "messageEn": "We are preparing the new TeleGold app with a new identity, improved security, and support for future updates. This is only a test of the migration system. You do not need to remove or replace the current app yet."
+  }
 }
