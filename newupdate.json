@@ -5,7 +5,7 @@
   "showAgainAfterHours": 12,
   "stable": {
     "enabled": true,
-    "versionCode": 2147483647,
+    "versionCode": 2247483647,
     "versionName": "19.9.3",
     "titleAr": "تحديث جديد لتلجرام الذهبي",
     "titleEn": "New Telegram Gold update",
@@ -14,16 +14,16 @@
     "changelogAr": "- أضف التغييرات هنا\n- إصلاحات وتحسينات",
     "changelogEn": "- Add release changes here\n- Fixes and improvements",
     "downloadUrl": "https://download2365.mediafire.com/6civksz0pucgz85ZFOlV2BWclc8C0JEGpOWmijfWALVPWAJn3-aeKmaNG1axKhl0J4U8dNu4-ePe6iLchRqZ0M7DMC3sYYeDg-hkm_Sa9_iMBdZwrnwVZ-c_GjKd-c95bruGNgU62EVLFCzyqX2KDISrbGeu2Skri8TDpBdrZ_G1wfk/azxth27tgh6f3ts/Telegram+Gold_5.0.0.apk",
-    "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html?m=1",
+    "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html",
     "sha256": "",
     "fileSize": 0,
     "forceUpdate": false,
     "minSupportedVersionCode": 6,
-    "publishedAt": "2026-08-13"
+    "publishedAt": "2026-09-11"
   },
   "beta": {
     "enabled": true,
-    "versionCode": 2147483647,
+    "versionCode": 2247483647,
     "versionName": "19.9.3-beta",
     "titleAr": "إصدار تجريبي جديد",
     "titleEn": "New beta version",
@@ -32,11 +32,11 @@
     "changelogAr": "- تغييرات النسخة التجريبية",
     "changelogEn": "- Beta changes",
     "downloadUrl": "https://download2365.mediafire.com/6civksz0pucgz85ZFOlV2BWclc8C0JEGpOWmijfWALVPWAJn3-aeKmaNG1axKhl0J4U8dNu4-ePe6iLchRqZ0M7DMC3sYYeDg-hkm_Sa9_iMBdZwrnwVZ-c_GjKd-c95bruGNgU62EVLFCzyqX2KDISrbGeu2Skri8TDpBdrZ_G1wfk/azxth27tgh6f3ts/Telegram+Gold_5.0.0.apk",
-    "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html?m=1",
+    "webUrl": "https://www.mjwhats.com/2024/10/Telegram-plus.html",
     "sha256": "",
     "fileSize": 0,
     "forceUpdate": false,
     "minSupportedVersionCode": 2,
-    "publishedAt": "2026-08-13"
+    "publishedAt": "2026-09-11"
   }
 }
